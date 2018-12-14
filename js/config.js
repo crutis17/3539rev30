@@ -69,7 +69,7 @@ Config.backgroundOpacity = 0.4;
 // set this to its filename (eg "background.jpg")
 // (set it false to not use it)
 // default: "blackbackground.jpg"
-Config.backgroundImage = "halo1.jpg";
+Config.backgroundImage = "halo4.jpg";
 
 // Background rendering fps
 // This can cause a large impact performance-wise
